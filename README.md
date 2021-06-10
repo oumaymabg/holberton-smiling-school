@@ -1,5 +1,8 @@
-# 0x0B. Implement a design with bootstrap
+# 0x0B. Implement a design with bootstrap   
+
+
 ### learning goals :
+
 
 In this project, you will implement 3 web pages with Bootstrap. You will use all HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges that you learned previously.
 
